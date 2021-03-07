@@ -10,6 +10,16 @@ This story will compare the travel costs of flight, bus, and train over the sele
 2. Travel time
 3. Social cost - carbon emission based on load factor (i.e. typical number of passengers on each train/plane), estimated route length, energy source.
 
+## Recommendation and Visualizations
+For each city, transport with the lowest colored area is concluded as the method with the lowest 'real cost.'
+
+CPH - Stockholm: Train;
+CPH - Oslo: Bus;
+CPH - Berlin: Fly;
+CPH - Amsterdam: Fly;
+
+![Recommendation](https://github.com/junauh/travel-cost/blob/master/recommendation_viz.png)
+
 ## Data source
 [Rome2Rio](https://www.rome2rio.com/) a good one-stop-shop for ticket prices and journey times by all possible transporations (including rail, air, bus, boat)
 
